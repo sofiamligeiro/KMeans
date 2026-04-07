@@ -14,4 +14,9 @@ The repository is organized to reflect the evolutionary development and optimiza
 * **`omp_2/`** An improved **OpenMP** version of the previous one.
 * **`mpi/`** The **MPI** implementation designed for **Distributed-Memory** systems. This version was tested on a cluster (Deucalion supercomputer) and contains the final performance report.
 
+## Authors
+* **Artur Krystopchuk - arturkrystopchuk@tecnico.ulisboa.pt**
+* **João Martins - joao.bernardo.mota.martins@tecnico.ulisboa.pt**
+* **Sofia Ligeiro - sofiamligeiro@tecnico.ulisboa.pt**
+
 
