@@ -1,5 +1,5 @@
 # Parallel Document Classification
-This project was developed as a group effort by three students for the Parallel and Distributed Computing course 25/26
+This project was developed as a group effort by three students for the Parallel and Distributed Computing(25/26) course.
 The goal was to implement and optimize a document classification algorithm (based on the K-Means clustering method) to assign documents 
 to cabinets by maximizing subject similarity across different parallel architectures
 
